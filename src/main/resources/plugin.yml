@@ -1,0 +1,7 @@
+main: fr.grandoz.hidesurprise.Main
+author: grandoz
+name: HideSurprise
+version: 1
+commands:
+  surprise:
+    description: Command pour gérer les surprises

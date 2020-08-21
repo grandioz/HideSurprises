@@ -1,0 +1,6 @@
+#Toutes les commandes qui seront executées quand le joueur aura trouvé
+#toutes les surprises
+
+cmds:
+  - 'give %player% diamond 10'
+  - 'eco give %player% 10000'
